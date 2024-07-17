@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Introduction-to-programming-languages---Home-Work-7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7262706c8432132c508fc97a79e7452178f29fe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814e57bbceb4f5c25c8cd9b46c54880338015b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("Introduction-to-programming-languages---Home-Work-7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Introduction-to-programming-languages---Home-Work-7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
