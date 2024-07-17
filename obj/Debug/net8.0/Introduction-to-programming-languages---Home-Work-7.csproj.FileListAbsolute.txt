@@ -1,0 +1,15 @@
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.AssemblyInfoInputs.cache
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.AssemblyInfo.cs
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.csproj.CoreCompileInputs.cache
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.sourcelink.json
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\bin\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.exe
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\bin\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.deps.json
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\bin\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.runtimeconfig.json
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\bin\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.dll
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\bin\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.pdb
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.dll
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\refint\Introduction-to-programming-languages---Home-Work-7.dll
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.pdb
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\Introduction-to-programming-languages---Home-Work-7.genruntimeconfig.cache
+D:\GeekBrains\study\C#\HomeWorks\HW7\Introduction-to-programming-languages---Home-Work-7\obj\Debug\net8.0\ref\Introduction-to-programming-languages---Home-Work-7.dll

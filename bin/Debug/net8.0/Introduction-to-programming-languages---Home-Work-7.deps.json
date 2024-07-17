@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Introduction-to-programming-languages---Home-Work-7/1.0.0": {
+        "runtime": {
+          "Introduction-to-programming-languages---Home-Work-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduction-to-programming-languages---Home-Work-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

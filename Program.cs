@@ -38,7 +38,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 if (M < 0 || N < 0)
 {
-    Console.WriteLine("Error: Both M and N must be non-negative integers.");
+    Console.WriteLine("Both M and N must be non-negative integers.");
 }
 else
 {
