@@ -97,3 +97,7 @@ int size = Convert.ToInt32(Console.ReadLine());
 char[] array = CreateRandomArrayOfChar(size);
 PrintArray(array);
 PrintArrayReverse(array, array.Length);
+
+// В третьем задании мне хотелось продемонстрировать своё решение, по заполнению массива случайными символами.
+// Понимаю, что конструктор Random находится внутри цикла, в функции CreateRandomArrayOfChar и связанный с ним GetRandomChar,
+// но как брать символ из таблицы символов, я не нашел. Хотелось бы получить ваш комментарий по этому вопросу.
