@@ -28,7 +28,6 @@
 //     if (M == 0) return N + 1;
 //     else if (N == 0) return Akkerman(M - 1, 1);
 //     else return Akkerman(M - 1, Akkerman(M, N - 1));
-
 // }
 
 // Console.WriteLine("Input natural number 'M' for function Akkerman: ");
@@ -66,7 +65,7 @@ char GetRandomChar()
 char[] CreateRandomArrayOfChar(int size)
 {
     char[] array = new char[size];
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++) 
     {
         array[i] = GetRandomChar();
     }
