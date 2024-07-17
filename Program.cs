@@ -23,12 +23,24 @@
 //Задача 2: Напишите программу вычисления функции Аккермана
 //с помощью рекурсии. Даны два неотрицательных числа m и n.
 
-int Akkerman(int m, int n)
+int Akkerman(int M, int N)
 {
-    if (m == 0) return n + 1;
-    else if (n == 0) return Akkerman(m - 1, 1);
-    else return Akkerman(m - 1, Akkerman(m, n - 1));
+    if (M == 0) return N + 1;
+    else if (N == 0) return Akkerman(M - 1, 1);
+    else return Akkerman(M - 1, Akkerman(M, N - 1));
 
 }
 
-Console.WriteLine(Akkerman(3, 11));
+Console.WriteLine("Input natural number 'M' for function Akkerman: ");
+int M = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input natural number 'N' for function Akkerman: ");
+int N = Convert.ToInt32(Console.ReadLine());
+
+if (M < 0 || N < 0)
+{
+    Console.WriteLine("Error: Both M and N must be non-negative integers.");
+}
+else
+{
+    Console.WriteLine(Akkerman(M, N));
+}
